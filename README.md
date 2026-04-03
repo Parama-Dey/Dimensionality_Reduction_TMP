@@ -1,7 +1,7 @@
 # Dimentionality_Reduction_StudentGradeAnalysis_TMP
 
 ## ​👤 Author
-* **Parama Dey**
+**Parama Dey**
 
 ---
 
@@ -15,7 +15,7 @@ In educational environments, raw grade data often hides complex relationships be
 
 ---
 
-​## 🛠️ **Technologies & Libraries**
+## ​🛠️ Technologies & Libraries
 ​Language: Python 3.x
 ​Data Manipulation: Pandas, NumPy
 ​Dimensionality Reduction: Scikit-Learn (PCA, TSNE, StandardScaler)
@@ -45,10 +45,10 @@ In educational environments, raw grade data often hides complex relationships be
 ---
 
 ## 📂 Repository Structure
-* `PCA_Analysis.ipynb`: Detailed notebook covering feature scaling and linear dimensionality reduction.
-* `t-SNE_Visualization.ipynb`: Exploration of non-linear embeddings and hyperparameter tuning (perplexity).
-* `Student_Grades_Dataset.csv`: The original dataset containing 100 student records.
-* `Final_Pitch_Presentation.pdf`: A summary presentation for stakeholders.
+* `PCA_Implementation.ipynb`: Detailed notebook covering feature scaling and linear dimensionality reduction.
+* `t-SNE_Implementation.ipynb`: Exploration of non-linear embeddings and hyperparameter tuning (perplexity).
+* `Student_Grades.csv`: The original dataset containing 100 student records.
+* `Dimensionality reduction on student grade dataset.pdf`: A summary presentation for stakeholders.
 * `README.md`: Project documentation.
 
 ---
