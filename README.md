@@ -48,8 +48,8 @@ In educational environments, raw grade data often hides complex relationships be
 ---
 
 ## 📂 Repository Structure
-* `PCA_Implementation.ipynb`: Detailed notebook covering feature scaling and linear dimensionality reduction.
-* `T-SNE_Implementation.ipynb`: Exploration of non-linear embeddings and hyperparameter tuning (perplexity).
+* `PCA_Implementation_.ipynb`: Detailed notebook covering feature scaling and linear dimensionality reduction.
+* `T-SNE_Implementation_.ipynb`: Exploration of non-linear embeddings and hyperparameter tuning (perplexity).
 * `Student_Grades.csv`: The original dataset containing 100 student records.
 * `Dimensionality reduction on student grade dataset.pdf`: A summary presentation for stakeholders.
 * `README.md`: Project documentation.
