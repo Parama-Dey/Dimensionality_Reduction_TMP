@@ -17,8 +17,11 @@ In educational environments, raw grade data often hides complex relationships be
 
 ## ​🛠️ Technologies & Libraries
 ​Language: Python 3.x
+
 ​Data Manipulation: Pandas, NumPy
+
 ​Dimensionality Reduction: Scikit-Learn (PCA, TSNE, StandardScaler)
+
 ​Visualization: Matplotlib, Seaborn
 
 ## 📊 Summary of Findings
@@ -46,7 +49,7 @@ In educational environments, raw grade data often hides complex relationships be
 
 ## 📂 Repository Structure
 * `PCA_Implementation.ipynb`: Detailed notebook covering feature scaling and linear dimensionality reduction.
-* `t-SNE_Implementation.ipynb`: Exploration of non-linear embeddings and hyperparameter tuning (perplexity).
+* `T-SNE_Implementation.ipynb`: Exploration of non-linear embeddings and hyperparameter tuning (perplexity).
 * `Student_Grades.csv`: The original dataset containing 100 student records.
 * `Dimensionality reduction on student grade dataset.pdf`: A summary presentation for stakeholders.
 * `README.md`: Project documentation.
